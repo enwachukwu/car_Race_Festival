@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/.github.io/car_Race_Festival/static/css/main.6676d44b.css",
+    "main.js": "/.github.io/car_Race_Festival/static/js/main.27389a16.js",
+    "index.html": "/.github.io/car_Race_Festival/index.html",
+    "main.6676d44b.css.map": "/.github.io/car_Race_Festival/static/css/main.6676d44b.css.map",
+    "main.27389a16.js.map": "/.github.io/car_Race_Festival/static/js/main.27389a16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6676d44b.css",
+    "static/js/main.27389a16.js"
+  ]
+}
