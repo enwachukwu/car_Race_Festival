@@ -18,7 +18,7 @@ function Cards() {
                 <CardItem
                 src="images/img_6.jpg" text="This is a testing page, we would write the main text sonner"
                  label="Happy day"
-                path="/ContactUs"
+                path="/AboutUs"
                 />
              
             </ul>
