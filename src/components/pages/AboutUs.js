@@ -5,12 +5,15 @@ import Footer from '../Footer';
 import CardItem from '../CardItem'
 import '../Cards.css';
 
+
+
 function AboutUs() {
   return (
     <>
     <div className='header-container'>
-        <img src='/images/Background_image.jpg' alt='Background ' className='bg-img'></img>
-     
+       {/*  <img src='/images/Background_image.jpg' alt='Background ' className='bg-img'></img>  */}
+
+        <img src='images/img_1.jpg' alt='Background ' className='bg-img'></img> 
     <div className='header-btns'>
         <Button className='btns' 
         buttonStyle='btn--outline'

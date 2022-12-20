@@ -13,7 +13,7 @@ function Footer() {
                 Register for the up coming events and take advantage of our yearly festivals
                 </p>
                 <div className='input-areas'>
-                    <form>
+                    <form action='/'>
                         <input 
                         type='email'
                         name='email'

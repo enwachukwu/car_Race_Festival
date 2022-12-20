@@ -7,6 +7,7 @@
     position:fixed;
     width: 65%;
 }
+
 .header-container {
     /*   background: url('/images/Background_image.jpg')   center center/cover no-repeat;  */
      height: 100vh;
@@ -71,6 +72,10 @@
 
      h1 {
         font-size: 50px;
+     }
+     .bg-img{
+        width: 100%;
+        display: block;
      }
  }
  

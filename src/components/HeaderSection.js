@@ -6,7 +6,7 @@ import './HeaderSection.css'
 function HeaderSection() {
   return (
     <div className='header-container'>
-        <img src='/images/Background_image.jpg' alt='Background ' className='bg-img'></img>
+        <img src='images/Background_image.jpg' alt='Background ' className='bg-img'></img>
       <h1>Car Race Festival</h1>
       <p>Check out the Latest!</p>
     <div className='header-btns'>

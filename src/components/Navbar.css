@@ -1,6 +1,7 @@
 
 .search{
-  color: #fff;
+  color: black;
+  cursor: pointer;
 }
 
 .navbar {
@@ -118,14 +119,15 @@
       border-radius: 0;
     }
   
-    .navbar-logo {
+     .navbar-logo {
       position: absolute;
       top: 0;
       left: 0;
       transform: translate(25%, 50%);
-    }
+
+    } 
   
-    .menu-icon {
+     .menu-icon {
       display: block;
       position: absolute;
       top: 0;
@@ -134,7 +136,7 @@
       font-size: 1.8rem;
       cursor: pointer;
     }
-  
+   
     .fa-times {
       color: #fff;
       font-size: 2rem;

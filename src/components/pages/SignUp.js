@@ -3,14 +3,14 @@ import '../../App.css';
 import HeaderSection from '../HeaderSection';
 import {Button} from '../Button';
 import Footer from '../Footer';
-
+import './SignUp.css'
 
 function SignUp() {
   return (
     <>
         <HeaderSection />
-        <div className='loginform '>
-        <form>
+        <div className='signupform '>
+        <form action='/' method='POST'>
         <h2>Create an Account</h2>
         <div>
                          <input 

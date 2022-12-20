@@ -70,35 +70,26 @@ function Navbar() {
             
         </ul>
        { button && <Button  buttonStyle='btn--outline'></Button>}
-       <Link>
-   
-       {/* <form action='/' method='get'>
-        <input type='search' placeholder='Search'></input>
-
-       </form> */}
-
-       
-       </Link>
-
+    
 
        <form action="/">
 
-    <div class="relative border-2 border-gray-100 m-4 rounded-lg">
-        <div class="absolute top-4 left-3">
+    <div className="relative border-2 border-gray-100 m-4 rounded-lg">
+        <div className="absolute top-4 left-3">
             <i
-                class="fa fa-search text-gray-400 z-20 hover:text-gray-500"
+                className="fa fa-search text-gray-400 z-20 hover:text-gray-500"
             ></i>
         </div>
         <input
             type="text"
             name="search"
-            class="h-14 w-full pl-10 pr-20 rounded-lg z-0 focus:shadow focus:outline-none"
+            className="h-14 w-full pl-10 pr-20 rounded-lg z-0 focus:shadow focus:outline-none"
             placeholder="Search For a Festival..."
         />
        
             <button
                 type="submit"
-                class="h-10 w-20 text-white rounded-lg bg-black hover:bg-red-600"
+                className="search"
             >
                 Search
             </button>

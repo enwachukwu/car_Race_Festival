@@ -21,14 +21,14 @@ function Login() {
                         />
                         </div>
                         <div>
-                         <input 
+                        <input 
                         type='password'
                         name='pasword'
                         placeholder='Your Password'
                         className='footer-input'
                         />
-                          </div>
-                       <Button buttoStyle='btn-outlin'>Send</Button>
+                        </div>
+                    <Button buttoStyle='btn-outlin'>Send</Button>
 
                     </form>
                     </div>
