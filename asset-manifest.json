@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/.github.io/car_Race_Festival/static/css/main.6676d44b.css",
-    "main.js": "/.github.io/car_Race_Festival/static/js/main.27389a16.js",
-    "index.html": "/.github.io/car_Race_Festival/index.html",
-    "main.6676d44b.css.map": "/.github.io/car_Race_Festival/static/css/main.6676d44b.css.map",
-    "main.27389a16.js.map": "/.github.io/car_Race_Festival/static/js/main.27389a16.js.map"
+    "main.css": "/car_Race_Festival/static/css/main.6d8957a3.css",
+    "main.js": "/car_Race_Festival/static/js/main.85650716.js",
+    "static/media/Background_image.jpg": "/car_Race_Festival/static/media/Background_image.f35fe823839e1726f236.jpg",
+    "static/media/img_4.jpg": "/car_Race_Festival/static/media/img_4.60fd713c24494975e151.jpg",
+    "static/media/img_2.jpg": "/car_Race_Festival/static/media/img_2.d3b088da27759044645e.jpg",
+    "static/media/img_8.jpg": "/car_Race_Festival/static/media/img_8.769560ac8c91c991f9db.jpg",
+    "static/media/img_1.jpg": "/car_Race_Festival/static/media/img_1.bde0e315a024fd1a27cb.jpg",
+    "static/media/img_6.jpg": "/car_Race_Festival/static/media/img_6.924805ba1df58293d7bd.jpg",
+    "index.html": "/car_Race_Festival/index.html",
+    "main.6d8957a3.css.map": "/car_Race_Festival/static/css/main.6d8957a3.css.map",
+    "main.85650716.js.map": "/car_Race_Festival/static/js/main.85650716.js.map"
   },
   "entrypoints": [
-    "static/css/main.6676d44b.css",
-    "static/js/main.27389a16.js"
+    "static/css/main.6d8957a3.css",
+    "static/js/main.85650716.js"
   ]
 }
